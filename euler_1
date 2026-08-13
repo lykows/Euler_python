@@ -1,0 +1,12 @@
+multiples[]
+for i in range(10)
+{
+	if (i % 3){
+		append multiples[i]
+	}
+	elif (i % 5){
+		append multiples[i]
+	}
+
+}
+print(multiples)
